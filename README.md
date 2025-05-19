@@ -1,3 +1,3 @@
-<div text-aligin: center>
-![java](images/java.png)
+<div style="text-align: center;">
+    <img src="images/java.png" alt="Картинка Java">
 </div>
