@@ -11,12 +11,11 @@ Tic Tac Toe
 - Применение криптографического хэширования паролей
 - Время жизни access токена 5 минут
 - Время жизни refresh токена 1 день
-
+![auth](images/auth.png)
 ## Регистрация
 - Логин должен быть уникальным
 - Длинна пароля от 5 до 20 символов
+![signUp](images/signUp.png)
 
 ![main](images/main.png)
 ![game](images/game.png)
-![auth](images/auth.png)
-![signUp](images/signUp.png)
