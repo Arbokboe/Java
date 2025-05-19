@@ -11,11 +11,11 @@
 - Применение криптографического хэширования паролей
 - Время жизни access токена 5 минут
 - Время жизни refresh токена 1 день<br>
-![auth](images/auth.png)
+![auth](images/auth.png) <br>
 ## Регистрация
 - Логин должен быть уникальным
 - Длинна пароля от 5 до 20 символов<br>
-![signUp](images/signUp.png)
+![signUp](images/signUp.png) <br>
 
 ![main](images/main.png)
 ![game](images/game.png)
