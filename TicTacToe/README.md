@@ -1,4 +1,4 @@
-Tic Tac Toe
+# Tic Tac Toe
 
 ## Особенности
 - Онлайн игра
