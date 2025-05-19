@@ -15,3 +15,8 @@ Tic Tac Toe
 ## Регистрация
 - Логин должен быть уникальным
 - Длинна пароля от 5 до 20 символов
+
+![main](images/main.png)
+![game](images/game.png)
+![auth](images/auth.png)
+![signUp](images/signUp.png)
